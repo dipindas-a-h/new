@@ -1,0 +1,41 @@
+.img{
+    position: absolute;
+}
+.text-center{
+ position: absolute;
+ margin-top: 10%;
+ color: white;
+ font-size: large;
+ font-weight: bold;
+}
+.col-8{
+    position: relative;
+
+}
+.box{
+    background-color: white;
+    height: 50vh;
+    border-radius: 20px;
+    margin-top: 30vh ;
+}
+.logo{
+   width: 30%;
+   height: auto;
+}
+.table{
+    border-radius: 20px;
+}
+.rs{
+    color: rgb(21, 247, 5);
+}
+.head{
+    background-color: rgb(211, 255, 255);
+    border-radius: 10px;
+    
+}
+thead{
+    border-radius: 20px;
+}
+.data{
+   margin-left: 5px;
+}
